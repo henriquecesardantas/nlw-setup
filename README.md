@@ -33,7 +33,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-- [Visite o projeto online](https://maxdevcode01.github.io/nlw-setup)
+- [Visite o projeto online](https://henriquecesardantas.github.io/nlw-setup)
 
 O Projeto Habits é um app para ajudar a rastrear os hábitos.
 
